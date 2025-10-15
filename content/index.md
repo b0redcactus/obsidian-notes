@@ -1,10 +1,4 @@
 ---
-title: Welcome to Quartz
+title: random notes
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-
-# asd1223
-
+asd123
