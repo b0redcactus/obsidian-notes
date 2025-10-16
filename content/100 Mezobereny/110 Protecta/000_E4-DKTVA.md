@@ -12,7 +12,7 @@
 
 
 
-- [[000_KÖF távolságvédelem]] 
+- [[000_KÖF távolságvédelem]]
 - [[000_Visszakapcsoló automatika]]
 
 - [[000_Áram bemenetek]]
