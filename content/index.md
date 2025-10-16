@@ -1,4 +1,5 @@
 ---
 title: random notes
 ---
-asd123
+npx quartz sync
+git push -u origin v4

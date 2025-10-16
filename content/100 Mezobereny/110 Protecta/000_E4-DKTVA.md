@@ -12,13 +12,14 @@
 
 
 
-- [[KÖF távolságvédelem]] 
-- [[Visszakapcsoló automatika]]
+- [[000_KÖF távolságvédelem]] 
+- [[000_Visszakapcsoló automatika]]
 
-- [[Áram bemenetek]]
-- [[Fesz bementetek]]
-- [[Kapcsoló-berendezés optikai ívérzékelés]]
-- [[Digitális bemenetek]]
+- [[000_Áram bemenetek]]
+- [[000_Fesz bementetek]]
+- [[000_Kapcsoló-berendezés optikai ívérzékelés]]
+- [[000_Digitális bemenetek]]
+
 
 
 
